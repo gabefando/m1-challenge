@@ -1,4 +1,4 @@
-# m1-challenge
+# marketing-agency-code-refactor
 ## Description
 The html and css files in this repository have been refactored according to the marketing agencies requests. Changes were made to make the page more accessible. The following changes were made:
 
